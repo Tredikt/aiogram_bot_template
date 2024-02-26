@@ -1,2 +1,2 @@
-TOKEN = ""
+TOKEN = "5684427805:AAG8uTXj6XpxYmAnIZawiHPNZTGmrscmV5A"
 db_name = ""
